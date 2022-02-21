@@ -61,6 +61,14 @@ body{
 .jumbotron p{
     font-size: 25px;
 }
+.card1 {
+    background-color: #064d35;
+    padding-top: 200px;
+}
+.card2{
+    background-color: #16996d;
+    padding-top: 20px;
+}
 
 .color1{
     background-color: #42665a;
